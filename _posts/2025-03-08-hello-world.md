@@ -7,6 +7,6 @@ Our web application to ease data entry processes just went live about a month ba
 
 ## Setting The Tone
 
-It is good practice to start off with an introduction on the purpose behind the session. As the clients we have been coordinating with were present, I thought it better that they gave the introduction instead of me due to them having a better relationship with the users. This was a mistake as they did not know the product as well as me and a clearer explanation by the Product Manager would have been the right approach.
+It is good practice to start by sharing with the participants (in this case, the users of the app) the purpose behind the session. The clients (the people we have been liaising with for this project) were quick to address the room and as they knew the users better but they weren't as clear when sharing with them why the users were invited to the focus group discussion. 
 
-I should have also given a brief overview of the various topics we would be discussing for the users to have a clearer idea on the agenda and to signal that I would be guiding the discussion.
+I should have communicated with the clients earlier that I will be chairing the session and be the one sharing the purpose instead. I should have also given a brief overview of the various topics we would be discussing for the users to have a clearer idea on the agenda and to signal that I would be guiding the discussion.
